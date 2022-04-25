@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellloooooooooooooooooooosadsadasdadsadadsadsa
+=======
+helllooooooooooooooooooooabcdèádsadádsadsadadsssssssssssssssssssssssssssss
+>>>>>>> dev_frontend
