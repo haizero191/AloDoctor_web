@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-hellloooooooooooooooooooosadsadasdadsadadsadsa
-=======
-helllooooooooooooooooooooabcdèádsadádsadsadadsssssssssssssssssssssssssssss
->>>>>>> dev_frontend
 
-ádsaddddddddddddddddddd
-sadasd
+- Test 1 đang test
